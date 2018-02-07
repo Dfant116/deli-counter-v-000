@@ -11,4 +11,3 @@ def line(num_in_line)
     puts "The line is currently: #{line_array.join(" ")}"
   end
 end
-
